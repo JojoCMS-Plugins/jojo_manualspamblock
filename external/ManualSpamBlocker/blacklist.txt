@@ -1,0 +1,11 @@
+# list all search phrases that you would like to block, one per line.
+# Help us improve this plugin - send us your lists of blocked phrases so we can incorporate them into future releases.
+
+add link
+add url
+post comment
+post comments
+post a comment
+post your comment
+dofollow
+

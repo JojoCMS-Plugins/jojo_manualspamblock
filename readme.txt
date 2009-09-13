@@ -1,0 +1,1 @@
+ManualSpamBlocker plugin for Jojo CMS. For details, see http://www.ragepank.com/msb/
