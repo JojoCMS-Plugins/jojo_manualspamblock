@@ -32,7 +32,10 @@ class ManualSpamBlocker
         $this->siteurl = $siteurl;
         
         /* sessions are used to cache the referer information */
-        @session_start();
+        $sid = session_id();
+        if (empty($sid)) {
+            @session_start();
+        }
     }
     
     /*
